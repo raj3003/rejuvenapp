@@ -4687,7 +4687,8 @@ ion-tabs.tabs-color-active-dark .tab-item {
   .item.item-button-right .badge {
     right: 67px; }
   .item.item-divider .badge {
-    top: 8px; }
+    top: 8px;
+	background-color: #fafafa;}
   .item .badge + .badge {
     margin-right: 5px; }
   .item.item-light {
@@ -7680,21 +7681,21 @@ em {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #5069A1;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
     color: #fff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f70;
+    background-color: #5069A1;
     color: #fff; }
     .bar-content .button:hover {
-      color: #fff;
+      color: #5069A1;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f70;
+      background-color: #5069A1;
       box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1); }
     .bar-content .button.button-clear {
       border-color: transparent;
@@ -7708,7 +7709,7 @@ em {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #5069A1;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
